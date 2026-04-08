@@ -1,0 +1,7 @@
+interface:
+  display_name: "C# Carter Minimal API"
+  short_description: "Builds ASP.NET Core minimal APIs using Carter modules"
+  default_prompt: "Use Carter modules for ASP.NET Core endpoint work in this repository."
+
+policy:
+  allow_implicit_invocation: true
