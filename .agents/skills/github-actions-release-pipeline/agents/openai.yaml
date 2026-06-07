@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Actions Release Pipeline"
+  short_description: "Build and harden CI/CD release workflows"
+  default_prompt: "Create or refactor GitHub Actions workflows for .NET repos using the user's preferred pattern: separate CI from release, gate semantic-release behind successful CI, use workflow_run on push to main for release automation, keep tag-triggered seeded releases separate, and split PR creation from approval so self-approval is avoided."
